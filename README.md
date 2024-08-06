@@ -21,7 +21,6 @@ AutoEUServerless 是一个基于腾讯云函数 Serverless 架构的自动化工
 **⭐️开发不易,如果觉得项目不错,请施舍一个Star!⭐️**  
 **☕喝个咖啡吧!☕**
 ```
-TRC20: TBY7e7YUQCG7wEH3PA8pk6fQPwpshb8Z55
 ```
 
 ## 使用说明
